@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  MVVMSwift
+//  MVVM_New
 //
-//  Created by general on 21/08/20.
-//  Copyright © 2020 general. All rights reserved.
+//  Created by Abhilash Mathur on 20/05/20.
+//  Copyright © 2020 Abhilash Mathur. All rights reserved.
 //
 
 import UIKit
